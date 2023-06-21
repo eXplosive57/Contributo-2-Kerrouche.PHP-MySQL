@@ -1,6 +1,6 @@
-                                                       #Contributo 2 PHP-MySQL
+                                                        <h1>Contributo 2 PHP-MySQL</h>
 
-#Componenti gruppo:
+Componenti gruppo:
 -Ahmed Ilyas Kerrouche
 
 Indirizzo Repository:
