@@ -8,11 +8,15 @@ Indirizzo Repository:
 
 Descrizione progetto:
 
-L'idea del progetto consiste nella realizzazione di un sorta di shop per Smartphone e Laptop. Un utente una volta registrato verrá
-portato sulla homepage del sito dove potrá visualizzare le novitá del momento. E' presente un menú a tendina dove l'utente ha la possibiltá
-di visualizzare due pagine, rispettivamente, smartphone e laptop. L'utente puó decidere se acquistare o meno un dispositivo a seconda della quantitá. 
-In caso di fallimento o successo della fase di acquisto verrá visualizzato un messaggio su schermo.
-Nel database é presente un utende Admin, colui che puó a differenza degli altri utenti, inserire un nuovo dispositivo al catalogo.
+L'idea del progetto consiste nella realizzazione di un sorta di shop per Smartphone. Un utente una volta registrato verrá
+portato sulla homepage del sito dove potrá visualizzare le novitá del momento.L'utente puó decidere se acquistare o meno un dispositivo a seconda della quantitá. 
+Una volta scelta la quantitá che si desidera, la si puó aggiungere al carrello. Verrete indirizzate nel carrello dove potrete vedere tutti gli articoli aggiunti con la relativa quantitá. 
+In qualsiasi momento é possibile procedere all'acquisto degli articoli, elimando dal carrello tutti i prodotti.
+
+Nel database é presente un utente Admin, colui che puó a differenza degli altri utenti, inserire un nuovo dispositivo al catalogo.
+Per accedere con l'utente admin usare
+  Username: Admin
+  Password: Admin
 
 Le caratteristiche di PHP (e interazione con il DBMS MySQL) che si sono volute testare ed implementare in questo contributo sono state le seguenti:
 
@@ -24,7 +28,7 @@ Le caratteristiche di PHP (e interazione con il DBMS MySQL) che si sono volute t
 
 - esecuzione di script PHP nei quali vengono manipolati dati forniti dai risultati di alcune query;
 
-- esecuzione di script PHP con dati passati attraverso delle form, in entrambe le metodologie conosciute (GET e POST);
+- esecuzione di script PHP con dati passati attraverso delle form;
 
 - esecuzione di script PHP con dati passati attraverso dei campi hidden;
 
