@@ -1,4 +1,4 @@
-                                                            Contributo 2 PHP-MySQL
+# Contributo 2 PHP-MySQL
 
 Componenti gruppo:
 - Ahmed Ilyas Kerrouche
@@ -13,9 +13,9 @@ portato sulla homepage del sito dove potrá visualizzare le novitá del momento.
 Una volta scelta la quantitá che si desidera, la si puó aggiungere al carrello. Verrete indirizzate nel carrello dove potrete vedere tutti gli articoli aggiunti con la relativa quantitá. 
 In qualsiasi momento é possibile procedere all'acquisto degli articoli, elimando dal carrello tutti i prodotti.
 
-Nel database é presente un utente Admin, colui che puó a differenza degli altri utenti, inserire un nuovo dispositivo al catalogo.
-Per accedere con l'utente admin usare
-  Username: Admin
+> Nel database é presente un utente Admin, colui che puó a differenza degli altri utenti, inserire un nuovo dispositivo al catalogo. <br>
+Per accedere con l'utente admin usare: <br>
+  > Username: Admin <br>
   Password: Admin
 
 Le caratteristiche di PHP (e interazione con il DBMS MySQL) che si sono volute testare ed implementare in questo contributo sono state le seguenti:
