@@ -1,7 +1,7 @@
-                                                        ##Contributo 2 PHP-MySQL
+                                                            Contributo 2 PHP-MySQL
 
 Componenti gruppo:
--Ahmed Ilyas Kerrouche
+- Ahmed Ilyas Kerrouche
 
 Indirizzo Repository:
 - https://github.com/eXplosive57/Contributo-2-Kerrouche.PHP-MySQL
