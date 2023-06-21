@@ -1,4 +1,4 @@
-                                                      # Contributo 2 PHP-MySQL
+                                                       #Contributo 2 PHP-MySQL
 
 Componenti gruppo:
 -Ahmed Ilyas Kerrouche
