@@ -1,4 +1,4 @@
-                                                        <h1>Contributo 2 PHP-MySQL</h1>
+                                                        ##Contributo 2 PHP-MySQL
 
 Componenti gruppo:
 -Ahmed Ilyas Kerrouche
@@ -6,8 +6,7 @@ Componenti gruppo:
 Indirizzo Repository:
 - https://github.com/eXplosive57/Contributo-2-Kerrouche.PHP-MySQL
 
-Descrizione progetto:  
-
+Descrizione progetto:
 
 L'idea del progetto consiste nella realizzazione di un sorta di shop per Smartphone. Un utente una volta registrato verrá
 portato sulla homepage del sito dove potrá visualizzare le novitá del momento.L'utente puó decidere se acquistare o meno un dispositivo a seconda della quantitá. 
